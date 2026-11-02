@@ -1,19 +1,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/masthead-dark.svg">
-  <img src="assets/masthead-light.svg" width="100%" alt="Simon Shu, co-founder and CEO of Restart. Autonomous intelligence infrastructure for companies.">
+  <img src="assets/masthead-light.svg" width="100%" alt="Simon Shu. Systems, agents, and experiments.">
 </picture>
 
 # Simon Shu
 
-Co-founder and CEO of **[Restart](https://restart.new)**, based in San Francisco.
+Co-founder at [Restart](https://restart.new). San Francisco.
 
-I'm building autonomous intelligence infrastructure for companies: business capabilities that equip the agents and models a company already uses, through MCP and Restart's plugin protocol.
-
-Our thesis: companies will rebuild around AI capabilities.
-
-Before Restart, I worked at Tesla Optimus, Scale AI, and Conduit Intelligence.
-
-**[Visit Restart](https://restart.new)** · **[Request an invitation](https://restart.new/request-access)**
+Previously Tesla Optimus, Scale AI, and Conduit Intelligence.
 
 ## Selected systems
 

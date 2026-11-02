@@ -1,63 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
-  <title id="title">Simon Shu, co-founder and CEO of Restart</title>
-  <desc id="desc">Restart is building autonomous intelligence infrastructure for companies: company-specific capabilities for the agents and models a company already uses.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Simon Shu</title>
+  <desc id="desc">Systems, agents, and experiments. San Francisco.</desc>
 
-  <rect width="1200" height="330" fill="#12120F"/>
+  <rect width="1200" height="280" fill="#12120F"/>
 
   <!-- frame rules -->
   <g stroke="#ECE8DD" stroke-width="1" fill="none">
     <line x1="64" y1="40.5" x2="1136" y2="40.5"/>
-    <line x1="64" y1="289.5" x2="1136" y2="289.5"/>
+    <line x1="64" y1="239.5" x2="1136" y2="239.5"/>
     <line x1="64.5" y1="34" x2="64.5" y2="47"/>
     <line x1="1135.5" y1="34" x2="1135.5" y2="47"/>
-    <line x1="64.5" y1="283" x2="64.5" y2="296"/>
-    <line x1="1135.5" y1="283" x2="1135.5" y2="296"/>
+    <line x1="64.5" y1="233" x2="64.5" y2="246"/>
+    <line x1="1135.5" y1="233" x2="1135.5" y2="246"/>
   </g>
 
-  <!-- kicker -->
-  <rect x="64" y="72" width="28" height="4" fill="#C2D040"/>
-  <text x="104" y="79" fill="#ECE8DD" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="2.2">SIMON SHU  /  CO-FOUNDER &amp; CEO, RESTART</text>
+  <!-- handle -->
+  <rect x="64" y="70" width="28" height="4" fill="#C2D040"/>
+  <text x="104" y="77" fill="#A29D90" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="2">@simoicy99</text>
 
-  <!-- headline -->
-  <g fill="#ECE8DD" font-family="ui-serif, 'Iowan Old Style', 'Palatino Linotype', Georgia, 'Times New Roman', serif" font-size="62" letter-spacing="-0.6">
-    <text x="61" y="152">Autonomous intelligence</text>
-    <text x="61" y="222">infrastructure for companies.</text>
-  </g>
+  <!-- name -->
+  <text x="60" y="162" fill="#ECE8DD" font-family="ui-serif, 'Iowan Old Style', 'Palatino Linotype', Georgia, 'Times New Roman', serif" font-size="88" letter-spacing="-1">Simon Shu</text>
 
-  <!-- dek -->
-  <text x="64" y="261" fill="#A29D90" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19">Company-specific capabilities for the agents and models companies already use.</text>
+  <!-- line -->
+  <text x="64" y="204" fill="#A29D90" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" letter-spacing="0.6">Systems, agents, and experiments.</text>
 
-  <!-- footer -->
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="1.6" fill="#A29D90">
-    <text x="64" y="315">RESTART.NEW</text>
-    <text x="1136" y="315" text-anchor="end">SAN FRANCISCO</text>
-  </g>
+  <!-- location -->
+  <text x="1136" y="265" text-anchor="end" fill="#A29D90" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="1.6">SAN FRANCISCO</text>
 
-  <!-- schematic: company systems, capability layer, agents -->
+  <!-- connection motif -->
   <g fill="none" stroke="#ECE8DD" stroke-width="1">
-    <!-- company side -->
-    <path d="M 926 112 H 966 V 166 H 1000"/>
-    <path d="M 926 166 H 1000"/>
-    <path d="M 926 220 H 966 V 166"/>
-    <!-- agent side -->
-    <path d="M 1028 166 H 1062 V 112 H 1098"/>
-    <path d="M 1028 166 H 1098"/>
-    <path d="M 1062 166 V 220 H 1098"/>
-    <!-- capability ring -->
-    <circle cx="1014" cy="166" r="22" stroke-dasharray="2 4"/>
+    <path d="M 926 92 H 966 V 140 H 1000"/>
+    <path d="M 926 140 H 1000"/>
+    <path d="M 926 188 H 966 V 140"/>
+    <path d="M 1028 140 H 1062 V 92 H 1098"/>
+    <path d="M 1028 140 H 1098"/>
+    <path d="M 1062 140 V 188 H 1098"/>
+    <circle cx="1014" cy="140" r="22" stroke-dasharray="2 4"/>
   </g>
   <g fill="#12120F" stroke="#ECE8DD" stroke-width="1.2">
-    <rect x="910" y="104" width="16" height="16"/>
-    <rect x="910" y="158" width="16" height="16"/>
-    <rect x="910" y="212" width="16" height="16"/>
-    <circle cx="1106" cy="112" r="8"/>
-    <circle cx="1106" cy="166" r="8"/>
-    <circle cx="1106" cy="220" r="8"/>
+    <rect x="910" y="84" width="16" height="16"/>
+    <rect x="910" y="132" width="16" height="16"/>
+    <rect x="910" y="180" width="16" height="16"/>
+    <circle cx="1106" cy="92" r="8"/>
+    <circle cx="1106" cy="140" r="8"/>
+    <circle cx="1106" cy="188" r="8"/>
   </g>
-  <circle cx="1014" cy="166" r="11" fill="#C2D040" stroke="#ECE8DD" stroke-width="1.2"/>
-  <g fill="#A29D90" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.4">
-    <text x="918" y="79" text-anchor="middle">COMPANY</text>
-    <text x="1106" y="79" text-anchor="middle">AGENTS</text>
-    <text x="1014" y="258" text-anchor="middle">MCP + PLUGIN</text>
-  </g>
+  <circle cx="1014" cy="140" r="11" fill="#C2D040" stroke="#ECE8DD" stroke-width="1.2"/>
 </svg>
