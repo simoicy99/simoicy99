@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/masthead-dark.svg">
-  <img src="assets/masthead-light.svg" width="100%" alt="Simon Shu. Systems, agents, and experiments.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/identity-dark.svg">
+  <img src="assets/identity-light.svg" width="100%" alt="Simon Shu. Systems, agents, and experiments.">
 </picture>
 
 # Simon Shu
