@@ -1,9 +1,11 @@
 # Maintaining this profile
 
-This repository is maintained with Claude-assisted automation. Notes for whoever edits it next:
+Notes for whoever edits this repository next.
 
-- **Editorial preference.** This is a personal profile first, with the technical projects prominent. The introduction carries one subtle co-founder mention with a link to Restart, and nothing more about the company: no positioning, thesis, product description, or calls to action. The title is co-founder only, never CEO. The mastheads carry the name, the line "Systems, agents, and experiments.", the handle, and the location; no company name, title, or product terms appear in their visible or accessible text.
-- **Claims.** Before adding any company fact, metric, or customer claim, confirm it with the founder and a public source. Describe linked projects by what their code does; do not assert who built them, when, or for whom unless that is documented.
-- **Masthead.** `assets/identity-light.svg` and `assets/identity-dark.svg` share one layout. Edit the light file, then regenerate the dark one by swapping the palette: `#F3F0E8` to `#12120F`, `#14130F` to `#ECE8DD`, `#55524A` to `#A29D90`, `#A7B82A` to `#C2D040`. Keep them free of scripts, external fonts, and remote references. The README text must stay complete without the image.
-- **Links.** README links use `blob/main` paths. If a file moves in a project repo, update the link. `docs/engineering-map.md` pins line links to specific commits; refresh the commit and line numbers when the code they describe changes.
-- **Copy.** Keep the README short, in simple vertical sections that read well on a phone. No em dashes.
+- **Profile surface.** The GitHub profile intentionally uses GitHub's native features only: the short bio field, pinned repositories, and the contribution activity graph. There is no custom profile README in this repository, and none should be added unless the owner asks.
+- **Not wanted.** No banners, mastheads, taglines, badge walls, stat cards, or duplicated project catalogs. Pinned repositories already list the projects; do not re-list them here.
+- **Company mention.** Keep any mention of the company brief. The title is co-founder only, never CEO. No positioning, thesis, product description, or calls to action.
+- **Project descriptions.** Describe projects by what their code does. Do not assert who built them, when, or for whom unless that is documented in the project itself.
+- **No fabrication.** Do not invent activity, contributions, metrics, customer counts, or other figures. Before adding any company fact or metric, confirm it with the owner and a public source.
+- **Links.** `docs/engineering-map.md` pins line links to specific commits. Refresh the commit and line numbers when the code they describe changes.
+- **Edits.** Changes to this repository are made with Claude Code. Keep edits small and factual, and do not commit or push without the owner's instruction.
